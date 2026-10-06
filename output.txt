@@ -1,0 +1,6 @@
+Name: Jas
+Age: 20
+Height: 5.1
+Is Student: true
+Age after 10 years: 30
+Is adult: true
